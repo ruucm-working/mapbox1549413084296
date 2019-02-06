@@ -1,0 +1,49 @@
+{
+  "files" : {
+    ".backups/2018-12-21 19.22.39.zip" : {
+      "sha1" : "7GoK503SmH4P2vcRDMSPgDvnEhs=",
+      "size" : 1251
+    },
+    ".yarnignore" : {
+      "sha1" : "R/SdL0EuQHAjKdYmnwReL3v+BJg=",
+      "size" : 46
+    },
+    "build/index.js" : {
+      "sha1" : "R3u/JUnhrDInqdG6iZ3Q2Fn//DM=",
+      "size" : 6910178
+    },
+    "code/canvas.tsx" : {
+      "sha1" : "XAWJ2Vc6zFl/c1ILjaRwb7ijf8Q=",
+      "size" : 179
+    },
+    "design/document.json" : {
+      "sha1" : "I4oTaQFNZ124kCB8zTjnIWewk/A=",
+      "size" : 2861
+    },
+    "metadata/artwork.png" : {
+      "sha1" : "XQt2OEgFQMpg67iTAyQk3aFD1m0=",
+      "size" : 2744
+    },
+    "metadata/icon.png" : {
+      "sha1" : "qWcMrub7A7zXeZzOWhLyjtteWBc=",
+      "size" : 1851
+    },
+    "package.json" : {
+      "sha1" : "ztBkZoOdEwYCO3bOnqkmRpp3zcc=",
+      "size" : 372
+    },
+    "README.md" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "tsconfig.json" : {
+      "sha1" : "aDUBWFOOLiSHozHi3fLJW+KdiYY=",
+      "size" : 277
+    },
+    "yarn.lock" : {
+      "sha1" : "YqvAt5vN2XILufoja5Y+KiP+Ae4=",
+      "size" : 27198
+    }
+  },
+  "uuid" : "D5023643-738B-4EDF-9A3C-50992924ADEC"
+}
